@@ -1,3 +1,6 @@
 [submodule "luz-do-saber-portal"]
 	path = luz-do-saber-portal
 	url = https://github.com/lmedesenvolvimento/luz-do-saber-portal.git
+[submodule "luz-do-saber-application"]
+	path = luz-do-saber-application
+	url = https://github.com/lmedesenvolvimento/luz-do-saber-application.git
